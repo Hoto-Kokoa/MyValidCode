@@ -105,15 +105,6 @@
       <change afterPath="$PROJECT_DIR$/../MySpringMVCAnnotate/web/input.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MySpringMVCJdbc/src/main/java/com/test/AppConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MySpringMVCJdbc/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MyValidCode_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/controller/TestStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/cookie/MyCookieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/mapper/IStudentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/service/IStudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/service/Impl/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/servlet/TestPaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/servlet/TestRi.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyValidateCode/.idea/artifacts/MyValidateCode_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyValidateCode/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyValidateCode/.idea/misc.xml" afterDir="false" />
@@ -573,18 +564,8 @@
       <change beforePath="$PROJECT_DIR$/../MyTemplateMethod/src/main/java/com/test/PeanutSoyaMilk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyTemplateMethod/src/main/java/com/test/PeanutSoyaMilk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyTemplateMethod/src/main/java/com/test/RadBeanSoyaMilk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyTemplateMethod/src/main/java/com/test/RadBeanSoyaMilk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyTemplateMethod/src/main/java/com/test/SoyaMilk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MyTemplateMethod/src/main/java/com/test/SoyaMilk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MyValidCode_war_exploded/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MyValidCode_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MyValidCode_war_exploded/WEB-INF/classes/com/test/servlet/ValidCodeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MyValidCode_war_exploded/WEB-INF/classes/com/test/servlet/ValidCodeServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MyValidCode_war_exploded/WEB-INF/lib/hamcrest-core-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MyValidCode_war_exploded/WEB-INF/lib/junit-4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MyValidCode_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MyValidCode_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/servlet/ValidCodeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/servlet/ValidCodeServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/servlet/ValidCodeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/servlet/ValidCodeServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../djejService/.idea/artifacts/djejService_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../djejService/.idea/artifacts/djejService_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../djejService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../djejService/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../djejService/src/main/java/com/djej/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../djejService/src/main/java/com/djej/controller/UserController.java" afterDir="false" />
@@ -639,7 +620,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/controller/TestStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="133">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -651,11 +632,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/servlet/TestPaging.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="202">
+              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -663,7 +641,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/mapper/IStudentMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="114">
               <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -676,7 +654,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/cookie/MyCookieTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -698,7 +676,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -750,10 +728,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="383" />
-    <option name="y" value="45" />
+    <option name="x" value="266" />
+    <option name="y" value="88" />
     <option name="width" value="1454" />
-    <option name="height" value="883" />
+    <option name="height" value="847" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -764,6 +742,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -910,7 +889,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1117,7 +1095,8 @@
       <workItem from="1567858226901" duration="662000" />
       <workItem from="1568865278084" duration="1642000" />
       <workItem from="1568874982043" duration="6000" />
-      <workItem from="1571815161424" duration="3290000" />
+      <workItem from="1571815161424" duration="3794000" />
+      <workItem from="1571831188405" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="生成验证码">
       <created>1566003354689</created>
@@ -1169,12 +1148,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66704000" />
+    <option name="totallyTimeSpent" value="67527000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="383" y="45" width="1454" height="883" extended-state="0" />
+    <frame x="266" y="88" width="1454" height="847" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27044475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27403155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1448,23 +1427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/mapper/IStudentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/cookie/MyCookieTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/servlet/ValidCodeServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1484,7 +1446,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/controller/TestStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="133">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1492,13 +1454,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/servlet/TestPaging.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/mapper/IStudentMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="114">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/cookie/MyCookieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/test/servlet/TestPaging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
